@@ -1,25 +1,52 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arilrahman&label=Profile%20views&color=0e75b6&style=flat" alt="tkirtan" /> </p>
+<h1 align="center">Hi 👋, I'm Aril</h1>
+<h3 align="center">Informatics Engineering Student & AI Enthusiast</h3>
 
-# Hi 👋! I'm Aril
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arilrahman&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Exploring-orange?style=flat-square" alt="Status" />
+</p>
 
-I am a student majoring in Information Systems (IS) at the Nurul Fikri Integrated Technology College. I have a great passion in technology and always want to follow the latest developments in this world. In addition, I also have an interest in creating creative content on social media. I enjoy making educational videos about technology, sharing tips and tricks, and also exploring various new applications and platforms. You can find my resume <a href="https://drive.google.com/file/d/1T96IuSPGw_c2pvHDbXcGErriir_eRNFt/view?usp=sharing" target="_blank">Here</a>. update 4 Oct, 2024
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/story.thur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatkhurrhn/) 
- 
-## 💻 Technical Skills:
+### 👨‍💻 About Me
+- 🔭 I am a student majoring in  at the Nurul Fikri Integrated Technology College.
+- 💡 Passionate about technology, web development, and digital content creation.
+- 🎬 I enjoy making educational videos about technology, sharing tips and tricks, and exploring new applications.
 
-- **Frontend Development:** HTML/CSS3, JavaScript, Bootstrap
-- **Tools and Design:** VSCode, GitHub
 
-<!-- snake graph -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-</div>
-<br>
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arilrahman&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
+---
+
+### 🌐 Connect with Me
+<p>
+  <a href="http://instagram.com/airill_rahmn/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chairil-rahman-88b6812a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Technical Skills & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,git,github" alt="Skills" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arilrahman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Aril's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arilrahman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arilrahman&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arilrahman/arilrahman/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
